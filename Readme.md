@@ -14,8 +14,8 @@ The goals of this project are to answer the following questions:
 </ul>
 
 # 📂 Folder structure
-<b>Analytics:</b> This folder contains all the jupyter notebooks that were used to answer the previous question
-<b>Data:</b> This folder contains the datasets used to perform the analysis
+<b>Analytics:</b> This folder contains all the jupyter notebooks that were used to answer the previous question <br>
+<b>Data:</b> This folder contains the datasets used to perform the analysis <br>
 <b>Visualizations:</b> This folder contains the plot chart generated in each analysis 
 
 # 🛠️ Tools used
@@ -41,7 +41,7 @@ This and a lot more have made the project really helpful as I practiced and impr
 Download/clone the repository in your local machine and make sure that <code>pandas</code>, <code>matplotlib.pyplot</code>, and <code>seaborn</code> packages are installed, you can do this using pip or conda:
 
 
-For <code>pip</code>, use this command: <code>pip install pandas matplotlib seaborn</code>
+For <code>pip</code>, use this command: <code>pip install pandas matplotlib seaborn</code> <br>
 For <code>conda</code>, activate your environement and run this command: <code>conda install pandas matplotlib seaborn</code>
 
 # 💡 How you can help me
